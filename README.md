@@ -5,4 +5,5 @@ https://quiz-app-online.netlify.app/
 - Fetched trivia questions from Open Trivia DB API.
 - Users can take quizzes, get scores, and save scores under their usernames.
 - Saved high scores in Local Storage.
+
 ![Quiz App](https://user-images.githubusercontent.com/100053535/215364731-c9884ff4-e8f5-4d93-a52c-bd2db01db2bf.JPG)
